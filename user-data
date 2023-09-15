@@ -1,4 +1,4 @@
-``
+
 #!/bin/bash
 
 # Update package information and install OpenJDK and Maven
@@ -27,4 +27,4 @@ sudo systemctl enable jenkins
 # Start Jenkins service
 sudo systemctl start jenkins
 
-``
+
